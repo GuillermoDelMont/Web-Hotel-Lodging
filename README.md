@@ -1,5 +1,5 @@
 # Web-Hotel-Lodging
-Development of website for registration and visualization of hotel lodging.
+Development of website for registration and visualization of hotel lodging. Made in Microsoft Visual Studio.
 
 File too big for GitHub upload.
 
